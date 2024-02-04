@@ -47,9 +47,6 @@ The aim of this project is to predict whether a breast tumor is malignant (M) or
 ### References
 - UCI Machine Learning Repository: [Breast Cancer Wisconsin (Diagnostic) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
 
-### Contributors
-- [Your Name]
-- [Your Email]
 
 ### License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
